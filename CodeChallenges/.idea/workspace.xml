@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="909dd965-744a-4bc4-828f-cf7bc6a1572f" name="Changes" comment="Binary search solved by recursive mode" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2Fm3PU8Mlty52MPWxgIdtiMT3J6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.GetParamsUrl.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "<unknown>",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/CodeRepository/hackerRank"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Leetcode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GetParamsUrl">
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
+      <module name="CodeChallenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetParamsUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetParamsUrl" />
+      <module name="CodeChallenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetParamsUrl" />
+        <item itemvalue="Application.FibonacciSeries" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="909dd965-744a-4bc4-828f-cf7bc6a1572f" name="Changes" comment="" />
+      <created>1665083410723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665083410723</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial project setup">
+      <created>1665083685121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665083685121</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Determine if a number is Prime">
+      <created>1665085297666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665085297666</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exclude compiled files">
+      <created>1665085381372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665085381372</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add more files">
+      <created>1666399943589</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666399943589</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Using stack to solve Parentheses challenge">
+      <created>1666405948735</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666405948735</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Change logic to make easier to read">
+      <created>1666457439859</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666457439859</updated>
+    </task>
+    <task id="LOCAL-00007" summary="How to merge two already sorted list">
+      <created>1666464157054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666464157054</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Buy and sell stock with array">
+      <created>1666475735612</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666475735612</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Palindrome with String and while loop">
+      <created>1666478160030</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666478160030</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Invert Binary Tree and Anagram&#10;Need to fix corner case for HashMap">
+      <created>1666500826846</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666500826846</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Binary search solved by recursive mode">
+      <created>1666545979757</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666545979757</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="46ce4600-a747-47f7-a344-6ad6f6679c79">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/CodeRepository/CodeChalenges/CodeChallenges" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial project setup" />
+    <MESSAGE value="Determine if a number is Prime" />
+    <MESSAGE value="Exclude compiled files" />
+    <MESSAGE value="Add more files" />
+    <MESSAGE value="Using stack to solve Parentheses challenge" />
+    <MESSAGE value="Change logic to make easier to read" />
+    <MESSAGE value="How to merge two already sorted list" />
+    <MESSAGE value="Buy and sell stock with array" />
+    <MESSAGE value="Palindrome with String and while loop" />
+    <MESSAGE value="Invert Binary Tree and Anagram&#10;Need to fix corner case for HashMap" />
+    <MESSAGE value="Binary search solved by recursive mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary search solved by recursive mode" />
+  </component>
+</project>
