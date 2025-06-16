@@ -1,10 +1,10 @@
-package javaPractice;
+
 import java.io.IOException;
 import java.lang.reflect.Method;
 
 public class GenericMethod {
 	
-	class Printer
+	static class Printer
 	{
 		/*
 		 * Generic method syntax
